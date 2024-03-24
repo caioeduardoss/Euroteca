@@ -1,0 +1,1 @@
+SELECT * FROM view_emprestimo ORDER BY data_emprestimo DESC

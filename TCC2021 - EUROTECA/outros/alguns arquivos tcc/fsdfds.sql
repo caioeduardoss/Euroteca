@@ -1,0 +1,1 @@
+UPDATE tab_livros SET disponivel = 1
